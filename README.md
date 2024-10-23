@@ -1,7 +1,5 @@
 # Introduction-
 
-Hola a todos, esta es mi presentación.
-
 Español
 
 Me dirijo a ustedes para presentar mi perfil profesional, que integra experiencia en hardware y software. Soy Tushar Saini, un ingeniero electrónico y de comunicaciones con una sólida formación académica que me ha dotado de un conocimiento exhaustivo en hardware, dispositivos y productos electrónicos, así como sus aplicaciones prácticas. Poseo habilidades técnicas avanzadas en soldadura, diseño y desarrollo de circuitos impresos, manejando tanto tecnologías de montaje superficial como de inserción, apoyado por herramientas de software especializadas.
